@@ -112,7 +112,7 @@ html {
   width: 100%;
   color: var(--Grey);
   font-weight: 500;
-  margin: 15px 0;
+  margin: 12px 0;
 }
 
 .avatar-botom {
@@ -155,10 +155,10 @@ html {
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   html{
-    font-size: 75%;
+    font-size: 70%;
   }
   .cardAll-content p {
-    margin: 25px 0;
+    margin: 10px 0 !important;
 }
 .card-box {
   width: 30%;
